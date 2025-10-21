@@ -1,16 +1,31 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+ul,
+p {
+  margin: 0px;
 }
 
 ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
+  padding: 0px;
+  list-style: none;
 }
 
 a {
   text-decoration: none;
+  color: inherit;
+}
+
+span {
+  color: #F01010;
+}
+
+img {
+  max-width: 100%;
+  display: block;
 }
 
 .header-bg {
@@ -87,4 +102,62 @@ a {
       padding: 8px 12px;
     }
   }
+}
+
+.introducao-bg {
+  background-color: #000000;
+  color: #ffffff;
+  box-shadow: inset 0 -120px rgb(255, 255, 255);
+
+}
+
+.introducao {
+  box-sizing: border-box;
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0px 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.introducao-conteudo {
+  align-self: end;
+  padding-bottom: 200px;
+}
+
+.introducao img {
+  height: 100%;
+  margin-bottom: -120px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.introducao h1 {
+  font-size: 4rem;
+  line-height: 1.125;
+  margin-bottom: 32px;
+}
+
+.introducao p {
+  color: #B2B2B2;
+  font-size: 24px;
+  line-height: 1.5;
+  margin-bottom: 32px;
+}
+
+.introducao a {
+  color: #330000;
+  font-weight: 600;
+  background: linear-gradient(#F01010 0%, #960707 100%);
+  padding: 16px 32px;
+  border-radius: 4px;
+  box-shadow: 0 1 2 0 rgba(0, 0, 0, );
+  transition: 0.1s;
+}
+
+.introducao a:hover {
+  color: #ffffff;
 }
