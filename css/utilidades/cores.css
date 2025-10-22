@@ -2,7 +2,7 @@
 
   /*tons de cinza*/
   --preto: #000000;
-  --cor-12: #111111;
+  --cor-11: #111111;
   --cor-10: #2E2E2E;
   --cor-9: #404040;
   --cor-8: #595959;
@@ -28,8 +28,8 @@
   color: var(--preto);
 }
 
-.cor-12 {
-  color: var(--cor-12);
+.cor-11 {
+  color: var(--cor-11);
 }
 
 .cor-10 {

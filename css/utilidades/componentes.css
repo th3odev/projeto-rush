@@ -1,7 +1,6 @@
 /*botao*/
 .botao {
   color: var(--p5);
-  font-weight: 600;
   background: linear-gradient(var(--p1) 0%, var(--p4) 100%);
   padding: 16px 32px;
   border-radius: 4px;
@@ -19,6 +18,7 @@
     grid-template-columns: 1fr;
     gap: 40px 0px;
     text-align: center;
+    font: 400 1rem/1 "Poppins", sans-serif;
 
   }
 
