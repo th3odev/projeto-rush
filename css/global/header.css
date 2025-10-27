@@ -60,6 +60,7 @@
 
   @media (max-width: 480px) {
     .header-menu {
+      flex-wrap: nowrap;
       gap: 12px;
     }
 

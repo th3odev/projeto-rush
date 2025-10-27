@@ -7,5 +7,7 @@
 /*home*/
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 /*motocicletas*/
 @import "./motocicletas/motocicletas-lista.css";
