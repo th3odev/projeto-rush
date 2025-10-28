@@ -1,5 +1,6 @@
 @import "./global/global.css";
 @import "./global/header.css";
+@import "./global/footer.css";
 /*utilidades*/
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
@@ -9,5 +10,13 @@
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
+@import "./home/seguros.css";
 /*motocicletas*/
+@import "./motocicletas/motocicletas.css";
 @import "./motocicletas/motocicletas-lista.css";
+/*seguros*/
+@import "./seguros/seguros.css";
+@import "./seguros/perguntas.css";
+@import "./seguros/vantagens.css";
+/*termos*/
+@import "./termos/termos.css";

@@ -5,7 +5,6 @@
 
 .motocicletas-lista h2 {
   margin-bottom: 40px;
-
 }
 
 .motocicletas-lista ul {
@@ -43,7 +42,7 @@
   height: 8px;
   width: 12px;
   margin-right: 8px;
-  background-color: var(--p1);
+  background-color: var(--cor-p1);
   transition: width 0.2s;
 }
 
