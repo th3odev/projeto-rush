@@ -60,7 +60,6 @@
 }
 
 .botao.seta:hover::after {
-
   transform: translateX(4px);
 }
 

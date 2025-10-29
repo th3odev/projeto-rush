@@ -14,6 +14,9 @@
 /*motocicletas*/
 @import "./motocicletas/motocicletas.css";
 @import "./motocicletas/motocicletas-lista.css";
+/*motocicletas*/
+@import "./motocicleta/motocicleta.css";
+@import "./motocicleta/seguro.css";
 /*seguros*/
 @import "./seguros/seguros.css";
 @import "./seguros/perguntas.css";
