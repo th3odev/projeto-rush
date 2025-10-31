@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
 
 ## Preview
-👉 *Projeto ainda em desenvolvimento*
+👉 [Visualizar Projeto](https://th3odev.github.io/projeto-rush/)
 
 ## Introdução
 A **RUSH Motorcycles** é uma empresa fictícia que atua no segmento de **customização e performance de motocicletas**.  
