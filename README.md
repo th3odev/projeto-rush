@@ -1,6 +1,6 @@
 # RUSH Motorcycles | Site Institucional
 
-![Static Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
+![Static Badge](https://img.shields.io/badge/STATUS-FINALIZADO-blue)
 
 ## Preview
 👉 [Pré Visualizar Projeto](https://th3odev.github.io/projeto-rush/)
